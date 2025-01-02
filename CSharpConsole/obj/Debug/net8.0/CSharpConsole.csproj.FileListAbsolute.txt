@@ -1,0 +1,14 @@
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.AssemblyInfoInputs.cache
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.AssemblyInfo.cs
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.csproj.CoreCompileInputs.cache
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\bin\Debug\net8.0\CSharpConsole.exe
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\bin\Debug\net8.0\CSharpConsole.deps.json
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\bin\Debug\net8.0\CSharpConsole.runtimeconfig.json
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\bin\Debug\net8.0\CSharpConsole.dll
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\bin\Debug\net8.0\CSharpConsole.pdb
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.dll
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\refint\CSharpConsole.dll
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.pdb
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\CSharpConsole.genruntimeconfig.cache
+C:\Users\Atharva Hambarde\source\repos\CSharpConsole\obj\Debug\net8.0\ref\CSharpConsole.dll
